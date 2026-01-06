@@ -1,7 +1,7 @@
 # Hi, I'm Paul 👋
 
 I'm a Full-Stack Developer focused on building
-real-world applications and learning by doing.
+real-world applications that solves problems.
 
 🚀 Currently building:
 - Portfolio projects that solve real problems
