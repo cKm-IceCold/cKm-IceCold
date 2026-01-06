@@ -22,7 +22,11 @@ A full-stack application for planning trips and destinations.
 - Build first, refine later
 - Focus on fundamentals
 - Break Down Complex problem into Simpler Task
-- Learn deeply, not shallowly
+- Learn deeply, not shallow
+- I learn by building, not memorizing
+- I care about clean logic and user experience
+- I like understanding *why* things work, not just *how*
+
 
 📫 Contact:
 - Email: chukspaul777@yahoo.com
