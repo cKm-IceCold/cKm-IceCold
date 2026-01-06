@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Paul 👋
 
-<!--
-**cKm-IceCold/cKm-IceCold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer focused on building
+real-world applications and learning by doing.
 
-Here are some ideas to get you started:
+🚀 Currently building:
+- Portfolio projects that solve real problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack:
+- Frontend: React, JavaScript, HTML, CSS, Next.js(still learning), AI (langflow/langchain)
+- Backend: Python, Django, Node.js (Still Learning)
+- Tools: Git, GitHub, VS Code
+
+🔥 Featured Projects:
+
+🧳 Travel Planner App  
+A full-stack application for planning trips and destinations.  
+👉 Repo: https://github.com/ckm-ice-cold/travel-planner
+
+🧠 How I think:
+- Great Idea
+- Build first, refine later
+- Focus on fundamentals
+- Break Down Complex problem into Simpler Task
+- Learn deeply, not shallowly
+
+📫 Contact:
+- Email: chukspaul777@yahoo.com
+- Twitter/X: dsignvillian
