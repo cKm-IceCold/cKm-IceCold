@@ -29,5 +29,5 @@ A full-stack application for planning trips and destinations.
 
 
 📫 Contact:
-- Email: chukspaul777@yahoo.com
+- Email: chukspaul777@gmail.com
 - Twitter/X: dsignvillian
