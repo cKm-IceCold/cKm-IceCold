@@ -8,7 +8,8 @@ real-world applications that solves problems.
 
 🛠 Tech Stack:
 - Frontend: React, JavaScript, HTML, CSS, Next.js(still learning), AI (langflow/langchain)
-- Backend: Python, Django, Node.js, Laravel(still learning) 
+- Backend: Python, Django, Node.js, Laravel(still learning)
+- Database: MySQl, Postgres, MongoDb
 - Tools: Git, GitHub, VS Code
 
 🔥 Featured Projects:
