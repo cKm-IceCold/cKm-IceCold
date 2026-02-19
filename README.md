@@ -8,10 +8,12 @@ real-world applications that solves problems.
 
 🛠 Tech Stack:
 - Frontend: React, JavaScript, HTML, CSS, Next.js(still learning), AI (langflow/langchain)
-- Backend: Python, Django, Node.js (Still Learning)
+- Backend: Python, Django, Node.js, Laravel(still learning) 
 - Tools: Git, GitHub, VS Code
 
 🔥 Featured Projects:
+Guard-Ai
+A full-Stack Ai powered webapp for fx and crypto traders
 
 🧳 Travel Planner App  
 A full-stack application for planning trips and destinations.  
@@ -27,6 +29,9 @@ A full-stack application for planning trips and destinations.
 - I care about clean logic and user experience
 - I like understanding *why* things work, not just *how*
 
+What the furture looks like for me ?
+I would be deeply involved in build Algos and Trading Bots for Algorithimic Trading and also
+involved in the Fintech and Ai Industry. I want to be where progress is.
 
 📫 Contact:
 - Email: chukspaul777@gmail.com
