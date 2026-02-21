@@ -15,6 +15,7 @@ real-world applications that solves problems.
 🔥 Featured Projects:
 Guard-Ai
 A full-Stack Ai powered webapp for fx and crypto traders
+Repo:  https://github.com/ckm-ice-cold/guard-ai
 
 🧳 Travel Planner App  
 A full-stack application for planning trips and destinations.  
