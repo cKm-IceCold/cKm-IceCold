@@ -11,6 +11,7 @@ real-world applications that solves problems.
 - Backend: Python, Django, Node.js, Laravel(still learning)
 - Database: MySQl, Postgres, MongoDb
 - Tools: Git, GitHub, VS Code
+- Trading Bots: MQL5, Pinescript
 
 🔥 Featured Projects:
 Guard-Ai
@@ -33,7 +34,7 @@ A full-stack application for planning trips and destinations.
 
 What the furture looks like for me ?
 I would be deeply involved in build Algos and Trading Bots for Algorithimic Trading and also
-involved in the Fintech and Ai Industry. I want to be where progress is.
+involved in the Fintech and Ai Industry. I want to be where progress is and industries that are building for the future.
 
 📫 Contact:
 - Email: chukspaul777@gmail.com
