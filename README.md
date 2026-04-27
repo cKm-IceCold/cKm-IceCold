@@ -7,8 +7,8 @@ real-world applications that solves problems.
 - Portfolio projects that solve real problems
 
 🛠 Tech Stack:
-- Frontend: React, JavaScript, HTML, CSS, Next.js(still learning), AI (langflow/langchain)
-- Backend: Python, Django, Node.js, Laravel(still learning)
+- Frontend: React, JavaScript, HTML, CSS, C#(still learning), AI (langflow/langchain) and Ai-Automation
+- Backend: Python, Django, Node.js, .Net(still learning)
 - Database: MySQl, Postgres, MongoDb
 - Tools: Git, GitHub, VS Code
 - Trading Bots: MQL5, Pinescript
