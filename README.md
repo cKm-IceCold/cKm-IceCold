@@ -32,9 +32,9 @@ A full-stack application for planning trips and destinations.
 - I care about clean logic and user experience
 - I like understanding *why* things work, not just *how*
 
-What the furture looks like for me ?
+What the future looks like for me ?
 I would be deeply involved in build Algos and Trading Bots for Algorithimic Trading and also
-involved in the Fintech and Ai Industry. I want to be where progress is and industries that are building for the future.
+involved in the Fintech and Ai-Automation Industry. I want to be where progress is and industries that are building for the future.
 
 📫 Contact:
 - Email: chukspaul777@gmail.com
