@@ -11,8 +11,7 @@ real-world applications that solves problems.
 - Backend: Python, Django, Node.js, .Net(still learning)
 - Database: MySQl, Postgres, MongoDb
 - Tools: Git, GitHub, VS Code
-- Trading Bots: MQL5, Pinescript
-- AI-AUTOMATION
+- Ai-Agents: Langchain, LangGraph
 - Languages: JavaScript, Python, C#
 
 🔥 Featured Projects:
@@ -35,8 +34,7 @@ A full-stack application for planning trips and destinations.
 - I like understanding *why* things work, not just *how*
 
 What the future looks like for me ?
-I would be deeply involved in build Algos and Trading Bots for Algorithimic Trading and also
-involved in the Fintech and Ai-Automation Industry. I want to be where progress is and industries that are building for the future.
+I would be deeply likely to be deeply involved in the Fintech and Ai-Automation Industry. I want to be where progress is and industries that are building for the future.
 
 📫 Contact:
 - Email: chukspaul777@gmail.com
